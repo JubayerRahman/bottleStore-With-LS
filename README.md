@@ -1,8 +1,10 @@
-# React + Vite
+# React and vite app for LocalStorage.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ with  this app i tried tolearn about Localstorage. It is very cool but also bit complex.
+ i get the core concept but implimenting the date can be difficult sometimes.
 
-Currently, two official plugins are available:
+ [Live Link](https://jobayer-bottle-ls.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ ## I like to live my works and love to shere them with other developes and friends.
+ 
+ ![thumbnail](./src/Components/thumbNail.png)
