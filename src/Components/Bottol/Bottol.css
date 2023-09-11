@@ -1,0 +1,36 @@
+.singleBottle{
+    border: 2px solid lightgray;
+    padding: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: left;
+    transition: all 0.3s ease-in;
+}
+.singleBottle h3{
+    font-size: 17px;
+}
+.singleBottle img{
+    width: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.cartButton{
+    background-color: darkgreen;
+    color: white;
+    font-size: 20px;
+    cursor: grab;
+    border: 2px solid darkgreen;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding: 10px;
+    transition: all 0.3s ease-in;
+}
+.cartButton:hover{
+    transition: all 0.3s ease-out;
+    background-color: transparent;
+}
+.singleBottle:hover{
+    transition: all 0.3s ease-out;
+    border: 2px solid orange;
+    box-shadow:  10px 20px 30px lightgray;
+}
